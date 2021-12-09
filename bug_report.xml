@@ -1,1 +1,5 @@
-
+<Id>1</Id>
+<Discription>do_not_open_login_page</Discription>
+<Full discription>open web brouser, go to page www...com</Full discription>
+<Severity>high</Severity>
+<Priority>critical</Priority>
